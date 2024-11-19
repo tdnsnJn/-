@@ -3,7 +3,7 @@
 　https://drive.google.com/drive/folders/13Vk1pSXXkBVqijUa_4_v4oVBKk_Muf_U?usp=sharing
 
 ## 説明
-　こちらはゲームをダウンロードできるURLです。ダウンロード期間は11月30日までです。
+　こちらはゲームをダウンロードできるURLです。
 
 　ステージ上にあるクリスタルをすべて回収し、
 　ステージ内の大きな灯篭をクリックして入り口に戻るとステージクリアとなります。
